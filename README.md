@@ -82,15 +82,15 @@ Controla a interação do usuário com o sistema e direciona cada opção para s
 
 ### Cadastro e listagem
 
-![Cadastro e listagem](evidencias/cadastro-listagem.png)
+![Cadastro e listagem](evidencias/cadastro-listagem.PNG)
 
 ### Busca de livro
 
-![Busca de livro](evidencias/busca.png)
+![Busca de livro](evidencias/busca.PNG)
 
 ### Gráfico por gênero
 
-![Gráfico por gênero](evidencias/grafico.png)
+![Gráfico por gênero](evidencias/grafico.PNG)
 
 ## O que aprendi
 
